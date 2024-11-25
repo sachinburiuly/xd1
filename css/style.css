@@ -124,14 +124,17 @@ margin:0;
     text-align: center;
     
 }
-.card-img-top1{
-  
-   margin: 50px 60px;
-   border-radius:50px;
-    
-}
+
 .githubarea .card-group .card{
     margin: 10px 10px;
+}
+
+.card-img-top{
+    margin:40px 0px;
+    padding: 0 50px;
+    height:100px;
+    width: 90px;
+
 }
 
 
