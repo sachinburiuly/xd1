@@ -46,6 +46,10 @@
     
    
 }
+.footerarea ul a:active{
+    color:rgb(0, 38, 255);
+}
+
 .footerarea h5{
     color: #FFFFFF;
     text-transform: capitalize;
