@@ -108,24 +108,6 @@
     color: #ffffff;
 }
 
-.cardarea .card img{
-    width: 50%;
-    height: 50%;
-    margin:0 60px;
-    
-}
-.cardarea .card h5{
-    text-align: center;
-    text-transform: capitalize;
-}
-.cardarea .card p{
-    text-align: center;
-}
-.cardarea .card{
-    box-shadow: 26px 25px 127px 30px rgba(0,0,0,0.09);
-   
-}
-
 
 .card-body .card-title{
     text-align: center;
