@@ -138,6 +138,17 @@ margin:0;
 
 }
 
+.githubarea .card:hover{
+    background-color: rgb(10, 2, 33);
+    color: #FFFFFF;
+   
+}
+.githubarea .card:active{
+    background-color: rgba(4, 1, 83, 0.788);
+    color: #eeeeff;
+   
+}
+
 
 
 
